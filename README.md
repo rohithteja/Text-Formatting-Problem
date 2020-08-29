@@ -12,9 +12,9 @@ The following algorithms were used in this project:
 7. Brute force approach
 
 The efficiency of every algorithm was studied by calculating a cost which is defined as the cube of empty spaces in a line. Then the algorithms were tested with different text paragraphs like:
-Case Study 1 : Low word count
-Case Study 2 : Random Paragraphs
-Case Study 3 : Fixed character paragraph
-Case Study 4 : Fixed word paragraph
+1. Case Study 1 : Low word count
+2. Case Study 2 : Random Paragraphs
+3. Case Study 3 : Fixed character paragraph
+4. Case Study 4 : Fixed word paragraph
 
 Runtime, cost and quality of every algorithm was found for the final analysis.
