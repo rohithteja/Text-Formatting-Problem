@@ -1,4 +1,4 @@
-# M1-Advanced-Algorithms
+# Advanced-Algorithms
 The objective is to implement algorithms for solving text formatting problems (Printing Neatly), and to provide an experimental study of their running time and the quality of the solutions found. 
 This is a problem of neatly printing a paragraph with a mono-spaced font (all characters having same width) on a printer. The input text is a sequence of n words of lengths l1, l2, ....., ln, measured in characters. The idea is to print this paragraph neatly on a number of lines that hold a maximum of M characters each. 
 The study of this problem is done by programming different algorithms and then, three types of alignments are explored, namely left, center and right.
